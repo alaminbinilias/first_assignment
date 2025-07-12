@@ -7,6 +7,14 @@
 }
 
 
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+
 
 /*Navber Style*/
 nav{
@@ -36,6 +44,7 @@ nav{
     padding: 12px 36px;
     border-radius: 10px;
     border:none;
+    cursor: pointer;
 }
 
 .content_navber{
