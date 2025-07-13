@@ -348,3 +348,45 @@ textarea{
     background-color: #4E47FF;
     color: #FFFFFF;
 }
+
+.info_form{
+    margin-bottom: 14px;
+}
+
+/*footer Section*/
+
+footer{
+    max-width: 100%;
+    background-color: #FFFFFF;
+    height: 400px;
+}
+
+.lgo_fot{
+    max-width: 531px;
+    margin: 0 auto;
+}
+.lgo_ft{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    color: #4E47FF;
+    font-weight:1000px;
+}
+.mn_info{
+    display: flex;
+    max-width: 531px;
+    justify-content: space-around;
+}
+.ft_content{
+    max-width: 531px;
+    color: #757575;
+    font-size: 19px;
+    text-align: center;
+    margin-top: -90px;
+}
+.mn_info{
+    color: #757575;
+    font-size: 16px;
+    margin-bottom: 103px;
+    max-height: 100%;
+}
