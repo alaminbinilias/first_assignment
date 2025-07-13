@@ -307,7 +307,7 @@ inf_frm{
 
 .inf_frm form input[type="email"]{
     display: block;
-    width:89%;
+    width:87%;
     font-size: 18px;
     margin-bottom: 10px;
     padding: 20px 32px;
@@ -317,7 +317,7 @@ inf_frm{
 }
 .inf_frm form input[type="text"]{
     display: block;
-    width: 90%;
+    width: 87%;
     font-size: 18px;
     margin-bottom: 10px;
     padding: 20px 32px;
@@ -327,7 +327,7 @@ inf_frm{
 }
 textarea{
     display: block;
-    width: 90%;
+    width: 87%;
     font-size: 18px;
     margin-bottom: 10px;
     padding: 20px 32px;
@@ -338,7 +338,7 @@ textarea{
 }
 .inf_frm form input[type="button"]{
     display: block;
-    width: 103%;
+    width: 100%;
     font-size: 18px;
     margin-bottom: 10px;
     padding: 20px 32px;
